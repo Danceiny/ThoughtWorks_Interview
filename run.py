@@ -57,6 +57,7 @@ gm.input_handler(None)
 
 print('\n\n')
 print('-----------标准输入测试-----------')
+print('-----------请按回车键打印收入表单----------')
 gm = Gym_Manager()
 while True:
     gm.stdin_input_handler()

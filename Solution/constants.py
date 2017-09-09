@@ -1,0 +1,5 @@
+GYM_CLOSED = -1
+GYM_NO_EXIST = -2
+TIME_ILLEGAL = -3
+
+FILEDS_DICT = {'A':1, 'B':2, 'C':3, 'D':4}

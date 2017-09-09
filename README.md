@@ -19,6 +19,7 @@ $ python run.py
 - [output1.txt](./test/output1.txt)
 - [output1.txt](./test/output2.txt)
 
+
 # 实现思路
 这次作业中，最关键在于数据结构的设计。
 
@@ -65,3 +66,6 @@ income = {
 }
 ```
 
+
+# 开源
+https://github.com/Danceiny/ThroughtWorks_Interview
